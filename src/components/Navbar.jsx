@@ -10,6 +10,7 @@ const Navbar = () => {
       </h1>
 
       <button onClick="">Submit</button>
+      <button onClick="">Submit</button>
     </div>
   );
 };
